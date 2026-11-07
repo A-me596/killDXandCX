@@ -1,7 +1,7 @@
 # A-me的网课助手(不懂的地方自己去网上搜索)
 
 <p align="center">
-  <strong>一款面向涉外学院网课平台的浏览器用户脚本</strong>
+  <strong>一款面向网课平台的浏览器用户脚本</strong>
 </p>
 
 <p align="center">
