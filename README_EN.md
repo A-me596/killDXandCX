@@ -1,7 +1,7 @@
 # A-me Course Helper
 
 <p align="center">
-  <strong>A browser userscript designed for online learning platforms used by the School of Foreign Studies.</strong>
+  <strong>A browser userscript designed for online learning platforms</strong>
 </p>
 
 <p align="center">
