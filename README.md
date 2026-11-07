@@ -45,7 +45,7 @@
 
 ## 📦 安装方法
 
-### 1. 安装 Tampermonkey
+### 1. 安装 Tampermonkey（或者暴力猴，脚本猫）
 
 根据浏览器类型安装 Tampermonkey：
 
@@ -57,7 +57,7 @@
 1. 打开浏览器中的 Tampermonkey。
 2. 进入管理面板。
 3. 点击创建新脚本。
-4. 将项目提供的 JavaScript 源码复制进去。
+4. 将项目提供的 JavaScript 文件导入进去。
 5. 保存并启用脚本。
 
 ### 3. 打开课程平台
